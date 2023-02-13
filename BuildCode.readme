@@ -1,0 +1,10 @@
+## Unfortunately my machine is all messed up and the community studio is KO due to some settings I was building for another project, hence I have used the onlinegdb IDE for this development.
+Ideally this would just be the sources and headers folder and compile in Visual Studio.
+
+#### Build Steps - 
+1. Open www.onlinegdb.com
+2. Open all these files in a new project to be built in C++ (select language at the top right corner of the page)
+3. Click on Run command at the top bar
+4. The code will automatically compile and the program will be run in the console window at the bottom of the page.
+5. User can input the necessary character to allow the robot operations
+Alternatively he could run the test cases to test the functions of the Robot class.
